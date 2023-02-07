@@ -1,0 +1,1 @@
+"# Interface"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:Hiro-LIT/Interface.gitgit push -u origin mainecho "# Interface"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:Hiro-LIT/Interface.gitgit push -u origin main
